@@ -1,11 +1,18 @@
 # React Technical Test
 
-## Setup
+## Getting Started
 
-```
+Clone the repo:
+git clone https://github.com/Darius19920110/react-interview-test.git
+
+Navigate into the folder:
+cd react-interview-test
+
+Install dependencies:
 npm install
+
+Start the app:
 npm start
-```
 
 ## Your Task
 
