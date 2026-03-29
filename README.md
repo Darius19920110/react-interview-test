@@ -47,7 +47,7 @@ https://jsonplaceholder.typicode.com/users
 - When loaded, display each user's name and email in a list
 
 ## Notes
-
 - Do not modify `store.js` or `App.jsx`
-- You may add styling if you wish but it is not required
+- Basic formatting is required - the UI should be clean and readable
+- Bonus points: set up Material UI and style the component nicely
 - Ask if you have any questions about the requirements
